@@ -1,0 +1,72 @@
+/*inicio do header*/
+
+header{
+  background-color: rgb(255,255,255);
+  width: 75℅;
+  height: 200px;
+  display: flex;
+  justify-content: space-around ;
+  align-items:center ;
+}
+/*fim do header*/
+/*inicio do header-logo*/
+.header-logo h1{
+  color: green;
+  font-size: 40px;
+}
+.header-logo{
+  padding-top: 30px;
+  /*margin-cria espaço para fora da tag*/
+  /*padding cria espaço para dentro da tag */
+}
+/*fim do header-logo*/
+/*inicio do header-navegacao*/
+.header-navegacao a{
+  font-size: 30px;
+  color:rgb(231,51,90);
+}
+.header-navegacao a{
+  padding-top:40px;
+}
+/*fim do header-navegacao*/
+/*inicio do home*/
+.home{
+  background-color: rgb(231,51,90);
+  width: 100℅;
+  height: 900px;
+}
+/*fim do home*/
+/*inicio do sobre*/
+.sobre{
+  background-color: rgb(255,255,255);
+  width: 100℅;
+  height: 800px;
+}
+/*fim do sobre*/
+/*inicio de habilidades*/
+.habilidades {
+  background-color: rgb(231,51,90);
+  width:100℅ ;
+  height:500px;
+}
+/*fim de habilidades*/
+.contato{
+  background-color: rgb(255,255,255);
+  width: 100℅;
+  height: 400px;
+}
+/*fim de habilidades*/
+/*inicio de projetod*/
+.projetos{
+  background-color: green;
+  width: 100℅;
+  height: 300px;
+}
+/*fim de projetos*/
+/*inicio do footer*/
+footer{
+  background-color: pink;
+  width: 100℅;
+  height: 100px;
+}
+/*fim do footer*/
